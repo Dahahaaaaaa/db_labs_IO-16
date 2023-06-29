@@ -3,13 +3,15 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your Name]"
+footer: "ECL 2.0 Licensed | Copyright © [2023] [Дар'я ПОЛЮХ]"
 ---
 
 
-**Виконав(-ла):** 
+**Виконали:** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[ім’я ПРІЗВИЩЕ] [Посилання email, tg, fb]**
+*студентка 2-го курсу, групи ІО-16*<span padding-right:5em></span> **Полюх Дар'я [Telegram](https://t.me/dariaaaaaaaaaaaaaaaaaaaaaaaaa) [Пошта](mailto:daryapolyuh@gmail.com)**
+
+*студентка 2-го курсу, групи ІО-16*<span padding-right:5em></span> **Полюх Анастасія [Telegram](https://t.me/nastiia_poliukh) [Пошта](mailto:nastyanastap@gmail.com)**
 
 
 **Керівник**
