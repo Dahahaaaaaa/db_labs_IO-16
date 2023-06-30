@@ -2,22 +2,13 @@
 # Репозиторій для виконання лабораторних робіт з дисципліни "Організація баз даних"
 
 ## Система управління проектами
-<<<<<<< HEAD
 
-Посилання на [проект](https://dahahaaaaaa.github.io/db_labs_IO-16/)
-
-**Виконали:** 
-
-*студентка 2-го курсу, групи ІО-16*<span padding-right:5em></span> **Полюх Дар'я [Telegram](https://t.me/dariaaaaaaaaaaaaaaaaaaaaaaaaa) [Пошта](mailto:daryapolyuh@gmail.com)**
-
-=======
 - Посилання на [проект](https://dahahaaaaaa.github.io/db_labs_IO-16/)
 
 **Виконали:** 
 
 *студентка 2-го курсу, групи ІО-16*<span padding-right:5em></span> **Полюх Дар'я [Telegram](https://t.me/dariaaaaaaaaaaaaaaaaaaaaaaaaa) [Пошта](mailto:daryapolyuh@gmail.com)**
 
->>>>>>> 8bfb00d9e27e48de8824fd2f618350043b352a3f
 *студентка 2-го курсу, групи ІО-16*<span padding-right:5em></span> **Полюх Анастасія [Telegram](https://t.me/nastiia_poliukh) [Пошта](mailto:nastyanastap@gmail.com)**
 
 
@@ -31,8 +22,4 @@
 
 [Кафедра обчислювальної техніки](https://comsys.kpi.ua/)
 
-<<<<<<< HEAD
 Київ
-=======
-Київ
->>>>>>> 8bfb00d9e27e48de8824fd2f618350043b352a3f
